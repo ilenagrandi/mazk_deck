@@ -329,3 +329,5 @@ const PitchDeck = () => {
   );
 };
 
+export default PitchDeck;
+
