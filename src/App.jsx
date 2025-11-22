@@ -281,7 +281,7 @@ const PitchDeck = () => {
   };
 
   return (
-    <div className="min-h-screen bg-black text-white flex flex-col">
+    <div className="min-h-screen bg-black text-white flex flex-col pb-24">
       {/* Main Slide */}
       <div className={`flex-1 ${slides[currentSlide].bg} p-16 transition-all duration-700`}>
         <div className="max-w-[1400px] mx-auto h-full">
@@ -289,8 +289,8 @@ const PitchDeck = () => {
         </div>
       </div>
 
-      {/* Navigation */}
-      <div className="bg-black border-t border-zinc-900 px-16 py-6">
+      {/* Navigation - Fixed at bottom */}
+      <div className="fixed bottom-0 left-0 right-0 bg-black border-t border-zinc-900 px-16 py-6 z-50">
         <div className="max-w-[1400px] mx-auto flex items-center justify-between">
           <button
             onClick={prevSlide}
