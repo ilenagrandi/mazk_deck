@@ -23,7 +23,7 @@ const PitchDeck = () => {
               </div>
             </div>
           </div>
-          <div className="text-sm text-gray-600 uppercase tracking-widest">
+          <div className="text-sm text-cyan-400 uppercase tracking-widest">
             Pitch Deck 2025
           </div>
         </div>
@@ -44,19 +44,19 @@ const PitchDeck = () => {
           
           <div className="grid grid-cols-3 gap-12 mb-16">
             <div className="space-y-3">
-              <div className="text-7xl font-extralight text-gray-700">01</div>
+              <div className="text-7xl font-extralight text-cyan-400">01</div>
               <p className="text-gray-400 text-lg leading-relaxed">
                 Productos high-ticket necesitan confianza personal para cerrar
               </p>
             </div>
             <div className="space-y-3">
-              <div className="text-7xl font-extralight text-gray-700">02</div>
+              <div className="text-7xl font-extralight text-cyan-400">02</div>
               <p className="text-gray-400 text-lg leading-relaxed">
                 Imposible atender 100+ leads diarios manteniendo tu esencia
               </p>
             </div>
             <div className="space-y-3">
-              <div className="text-7xl font-extralight text-gray-700">03</div>
+              <div className="text-7xl font-extralight text-cyan-400">03</div>
               <p className="text-gray-400 text-lg leading-relaxed">
                 Call centers genéricos destruyen la conexión emocional
               </p>
@@ -74,7 +74,7 @@ const PitchDeck = () => {
           <div className="text-center space-y-12">
             <div className="text-8xl font-light text-white leading-tight">
               Tu gemelo digital<br/>
-              <span className="text-gray-500">de ventas</span>
+              <span className="text-cyan-400">de ventas</span>
             </div>
             <p className="text-2xl text-gray-400 max-w-3xl mx-auto leading-relaxed font-light">
               Mazk clona tu voz y personalidad para cerrar ventas high-ticket mientras tú escalas tu negocio
@@ -211,7 +211,7 @@ const PitchDeck = () => {
               <div className="text-sm text-gray-500 uppercase tracking-widest">Por Qué Mazk</div>
               <h2 className="text-6xl font-light text-white leading-tight">
                 No eres un número<br/>
-                <span className="text-gray-600">en un call center</span>
+                <span className="text-cyan-400">en un call center</span>
               </h2>
             </div>
 
