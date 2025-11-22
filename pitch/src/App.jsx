@@ -428,7 +428,7 @@ const PitchDeck = () => {
 
             <div className="grid grid-cols-3 gap-8">
               <div className="bg-zinc-900 p-8 border border-zinc-800 text-center">
-                <div className="text-4xl font-extralight text-cyan-400 mb-4">2024</div>
+                <div className="text-4xl font-extralight text-cyan-400 mb-4">2025</div>
                 <h3 className="text-xl text-white mb-3 font-light">Voice Cloning</h3>
                 <p className="text-gray-500 text-sm">Calidad comercial indistinguible del original</p>
               </div>
@@ -673,7 +673,7 @@ const PitchDeck = () => {
             <div className="bg-zinc-900 p-8 border border-zinc-800">
               <div className="text-6xl font-extralight text-cyan-400 mb-4">03</div>
               <h3 className="text-2xl text-white mb-3 font-light">Timing perfecto</h3>
-              <p className="text-gray-500 leading-relaxed">La tecnología maduró en 2024. Estamos en el momento exacto.</p>
+              <p className="text-gray-500 leading-relaxed">La tecnología maduró en 2025. Estamos en el momento exacto.</p>
             </div>
 
             <div className="bg-zinc-900 p-8 border border-zinc-800">
