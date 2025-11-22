@@ -38,7 +38,7 @@ const PitchDeck = () => {
           <div>
             <div className="text-sm text-gray-500 uppercase tracking-widest mb-8">El Problema</div>
             <h2 className="text-6xl font-light text-white mb-16 leading-tight">
-              Los influencers no<br/>pueden escalar<br/>sin perder autenticidad
+              El cuello de botella<br/>de tu negocio<br/>eres tú
             </h2>
           </div>
           
